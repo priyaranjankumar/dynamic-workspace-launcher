@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic Workspace Launcher",
+  "description": "Automatically launch new applications to unique workspaces",
+  "uuid": "dynamic-workspace-launcher@ranjan",
+  "shell-version": ["47"],
+  "version": 1
+}
