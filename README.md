@@ -34,4 +34,4 @@ Dynamic Workspace Launcher is a GNOME Shell extension designed to enhance your m
 
 ## 🐛 Contributing
 
-## Feel free to submit issues and pull requests. Contributions are welcome!
+### Feel free to submit issues and pull requests. Contributions are welcome!
